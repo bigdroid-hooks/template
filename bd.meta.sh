@@ -1,6 +1,6 @@
-NAME="Example Hook"
+NAME="Example Duh"
 
-CODENAME="example_hook"
+CODENAME="example"
 
 AUTHORS=("AXON")
 
